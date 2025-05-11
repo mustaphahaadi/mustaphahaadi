@@ -7,7 +7,8 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mustaphahaadi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/mustaphahaadi/github-readme-stats#gh-light-mode-only)
 
 <a href="https://github.com/mustaphahaadi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mustaphahaadi" />
+  <img height=200 align="center" src="](https://github-readme-stats.vercel.app/api?username=mustaphahaadi&show_icons=true&theme=dark#gh-dark-mode-only" />
+  (https://github-readme-stats.vercel.app/api?username=mustaphahaadi&show_icons=true&theme=dark#gh-dark-mode-only)
 </a>
 <a href="https://github.com/mustaphahaadi/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaphahaadi&layout=compact&langs_count=8&card_width=320" />
