@@ -9,11 +9,3 @@
 <a href="https://github.com/mustaphahaadi/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaphahaadi&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
-<a href="https://github.com/mustaphahaadi/yungstech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustaphahaadi&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/mustaphahaadi/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustaphahaadi&repo=convoychat" />
-</a>
