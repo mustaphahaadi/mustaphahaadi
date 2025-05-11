@@ -13,7 +13,7 @@
 
 
 <a href="https://github.com/mustaphahaadi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustaphahaadi&repo=github-readme-stats" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </a>
 <a href="https://github.com/mustaphahaadi/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mustaphahaadi&repo=convoychat" />
