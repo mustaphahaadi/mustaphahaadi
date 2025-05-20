@@ -1,9 +1,4 @@
 
-<a href="https://www.github.com/mustaphahaadi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mustaphahaadi?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a><a href="https://www.x.com/RealCodeo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/RealCodeo?logo=twitter&style=for-the-badge&color=22c55e&labelColor=000000"
-/></a>
-
 ### Skills
 
 
@@ -12,9 +7,6 @@ src="https://img.shields.io/twitter/follow/RealCodeo?logo=twitter&style=for-the-
 </p>
 
 
-### Socials
-
-ercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
@@ -23,8 +15,4 @@ ercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.s
 <a href="http://www.github.com/mustaphahaadi"><img src="https://github-readme-stats.vercel.app/api?username=mustaphahaadi&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="mustaphahaadi's GitHub stats" /></a>
 
 <a href="http://www.github.com/mustaphahaadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphahaadi&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/mustaphahaadi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mustaphahaadi&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/mustaphahaadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphahaadi&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
