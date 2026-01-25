@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,react,nextjs,css,docker,git,github,azure,java,csharp&perline=7" />
+
+
 ### Skills
 
 <p align="left">
