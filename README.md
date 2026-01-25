@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mustapha+Haadi+Bugnaba;Software+Developer+DevOps+Engineer;Builder+of+Useful+Things;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
 </p>
 
-<a href="https://ongoro.top">
-  <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-
 ### Skills
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,jenkins,nginx,linux,ubuntu,python,django,nodejs,react,nextjs,css,git,github,vscode,js,csharp&perline=7" />
 
