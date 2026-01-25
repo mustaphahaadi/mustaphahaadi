@@ -2,7 +2,7 @@
 
 
 ### Skills
-<img src="https://skillicons.dev/icons?i=js,ts,python,django,nodejs,react,nextjs,css,docker,git,github,java,aws,csharp&perline=7" />
+<img src="https://skillicons.dev/icons?i=js,aws,docker,kubernetes,githubactions,terraform,jenkins,nginx,linux,ubuntu,python,django,nodejs,react,nextjs,css,git,github,vscode,java,csharp&perline=7" />
 
 
 
