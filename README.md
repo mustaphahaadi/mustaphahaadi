@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+George+Ongoro;Full-Stack+Software+Developer;Builder+of+Useful+Things;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</p>
 
 
 ### Skills
