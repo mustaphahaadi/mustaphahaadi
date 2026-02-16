@@ -13,6 +13,7 @@
 
 
 ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mustaphahaadi&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mustaphahaadi&layout=compact)
 
 <a href="https://github.com/mustaphahaadi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mustaphahaadi" />
