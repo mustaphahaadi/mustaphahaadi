@@ -11,7 +11,3 @@
 <a href="http://www.github.com/mustaphahaadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphahaadi&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mustaphahaadi&show_icons=true)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mustaphahaadi&layout=compact)
-
-
