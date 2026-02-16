@@ -18,7 +18,7 @@
 </table>
 
 <div class="stats-container">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mustaphahaadi&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mustaphahaadi&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mustaphahaadi&layout=compact" alt="Top Langs" />
 </div>
 
