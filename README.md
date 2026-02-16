@@ -12,7 +12,7 @@
 
 
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mustaphahaadi&show_icons=true&theme=transparent)
 
 <a href="https://github.com/mustaphahaadi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mustaphahaadi" />
