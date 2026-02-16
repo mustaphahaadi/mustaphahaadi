@@ -19,7 +19,7 @@
 
 <div class="stats-container">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=mustaphahaadi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mustaphahaadi&layout=donut)](https://github.com/mustaphahaadi/github-readme-stats" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact" alt="Top Langs" />
 </div>
 
 
