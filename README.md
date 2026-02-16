@@ -11,14 +11,28 @@
 <a href="http://www.github.com/mustaphahaadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphahaadi&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
+<style>
+  .stats-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows wrapping on smaller screens */
+    gap: 10px;      /* Space between cards */
+    justify-content: center;
+  }
+
+  .stats-container img {
+    height: 170px;  /* Forces both cards to the same height */
+    width: auto;    /* Maintains aspect ratio */
+    border-radius: 5px;
+  }
+</style>
+
+<div class="stats-container">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mustaphahaadi&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mustaphahaadi&layout=compact" alt="Top Langs" />
+</div>
+
+
 ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mustaphahaadi&show_icons=true)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mustaphahaadi&layout=compact)
 
-<a href="https://github.com/mustaphahaadi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mustaphahaadi" />
-</a>
-
-<a href="https://github.com/mustaphahaadi/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaphahaadi&layout=compact&langs_count=8&card_width=320" />
-</a>
 
