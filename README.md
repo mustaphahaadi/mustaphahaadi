@@ -10,21 +10,12 @@
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/mustaphahaadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphahaadi&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-<style>
-  .stats-container {
-    display: flex;
-    flex-wrap: wrap; /* Allows wrapping on smaller screens */
-    gap: 10px;      /* Space between cards */
-    justify-content: center;
-  }
-
-  .stats-container img {
-    height: 170px;  /* Forces both cards to the same height */
-    width: auto;    /* Maintains aspect ratio */
-    border-radius: 5px;
-  }
-</style>
+<table width="100%">
+  <tr>
+    <td width="50%"><img src="URL_1" height="195px"></td>
+    <td width="50%"><img src="URL_2" height="195px"></td>
+  </tr>
+</table>
 
 <div class="stats-container">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=mustaphahaadi&show_icons=true" alt="GitHub stats" />
