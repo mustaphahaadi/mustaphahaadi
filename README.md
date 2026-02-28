@@ -10,9 +10,12 @@
   <a href="https://discordapp.com/users/mustaphahaadi"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
+<p align="center">
 ### Skills
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,jenkins,nginx,linux,ubuntu,python,django,nodejs,react,nextjs,css,git,github,vscode,js,&perline=7" />
+</p>
 
+
+<p align="center">
 <a href="http://www.github.com/mustaphahaadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphahaadi&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
+</p>
